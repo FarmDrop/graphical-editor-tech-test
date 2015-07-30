@@ -28,8 +28,8 @@ The editor supports 7 commands:
 In the example below, > denotes input, => denotes program output.
 
 ```
-> I56 
-> L23A 
+> I 5 6
+> L 2 3 A
 > S
 
 =>
@@ -40,9 +40,9 @@ OOOOO
 OOOOO
 OOOOO
 
-> F33J
-> V234W 
-> H342Z 
+> F 3 3 J
+> V 2 3 4 W
+> H 3 4 2 Z
 > S
 
 =>
@@ -56,4 +56,4 @@ JJJJJ
 
 ##￼Submission
 
-Fork this project, write some code, let us know! 
+Fork this project, write some code, let us know!
